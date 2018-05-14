@@ -46,3 +46,9 @@ Create a Github account<br/>
 Pull this repository<br/>
 Put all the files of previous Assignments in a folder named "your_roll no"<br>
 And create a pull request.
+
+------------------------------------------
+## Other materials
+[Bootstrap](https://www.youtube.com/watch?v=gqOEoUR5RHg)<br>
+[Javascript](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)<br>
+Assignment for them will be released soon.
