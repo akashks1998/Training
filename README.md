@@ -45,4 +45,4 @@ Deadline- 17th May<br>
 Create a Github account<br/>
 Pull this repository<br/>
 Put all the files of previous Assignments in a folder named "your_roll no"<br>
-And create a push request.
+And create a pull request.
