@@ -55,7 +55,11 @@ You have to make an animation as shown in given images.
 - You have to make a big container and a smaller box inside that and a `button`. <br>
 - Now your motive is to make a function that moves the inner block linearly such that it starts from upper-left corner(4th position), goes to positions 1,2,3,4 respectively and stops at 4th position.  <br>
 - Now execute the function when the button is pushed. <br>
-![Assignment 5.2](Material/5_2.png) <br>
+<p align="center">
+  <img src="Material/5_2.png" width="50%"/>
+</p>
+<br>
+
 You can see an example [here](https://www.w3schools.com/howto/howto_js_animate.asp) for reference. 
 
 ------------------------------------------
