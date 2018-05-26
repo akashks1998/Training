@@ -56,7 +56,7 @@ You have to make an animation as shown in given images.
 - Now your motive is to make a function that moves the inner block linearly such that it starts from upper-left corner(4th position), goes to positions 1,2,3,4 respectively and stops at 4th position.  <br>
 - Now execute the function when the button is pushed. <br>
 ![Assignment 5.2](Material/5_2.png) <br>
-You can see an example [here](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_animate_3) for reference. 
+You can see an example [here](https://www.w3schools.com/howto/howto_js_animate.asp) for reference. 
 
 ------------------------------------------
 ## Other materials
