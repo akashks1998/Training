@@ -52,8 +52,8 @@ And create a pull request.
 ### Part-2
 Deadline- 31st May<br>
 You have to make an animation as shown in given images.
-You have to make a big container and a smaller box inside that and a `button`. Now your motive is to move the inner block linearly such that it starts from upper-left corner(4th position), goes to positions 1,2,3,4 respectively and stops at 4th position. 
-![Assignment 5.2](Material/5_2.png)
+You have to make a big container and a smaller box inside that and a `button`. Now your motive is to move the inner block linearly such that it starts from upper-left corner(4th position), goes to positions 1,2,3,4 respectively and stops at 4th position.  <br>
+![Assignment 5.2](Material/5_2.png) <br>
 You can see an example [here](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_animate_3) for reference. 
 
 ------------------------------------------
