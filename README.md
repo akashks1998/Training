@@ -48,7 +48,24 @@ Put all the files of previous Assignments in a folder named "your_roll no"<br>
 And create a pull request.
 ## Assignment 5
 ## Javascript is Love :heart:
-
+#### Resource
+[Javascript](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)<br>
+### Part-1
+I think this one will be hard for you so please start early<br>
+Deadline- 2nd June
+Implement [k-nearest neighbour in javascript.](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)<br>
+There will be 2 forms:<br>
+* Form-1
+  In this form there will be 3 input fields:
+  * First one is x
+  * Second one is y
+  * Third one is catagory.
+  Catagory- Red or green
+* Form-2
+  This form will have 3 input fields:
+  * First one is x
+  * Second one is y
+  * Third one is k 
 ### Part-2
 Deadline- 31st May<br>
 You have to make an animation as shown in given images.
@@ -65,5 +82,4 @@ You can see an example [here](https://www.w3schools.com/howto/howto_js_animate.a
 ------------------------------------------
 ## Other materials
 [Bootstrap](https://www.youtube.com/watch?v=gqOEoUR5RHg)<br>
-[Javascript](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)<br>
 Assignment for them will be released soon.
