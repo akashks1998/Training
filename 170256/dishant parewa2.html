@@ -1,0 +1,30 @@
+<html>
+<head>
+    <title>Registration form</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<div id="div1">
+  <h1>Registration form</h1>
+  <form>
+  
+     <h2>Enter your name</h2> 
+     <input type="text" placeholder="Name"  pattern="[A-Za-z ]+" maxlength="20" title=" Maximum 20 characters with only english alphabets and space">
+	 <h3> Enter your Adress</h3>
+	 <input type="text" placeholder="Adress" pattern="+." maxlength="100" title="Maximum 100 characters">
+	 <h4>Enter your email</h4>
+	 <input type="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.com" title="email should be of the form “someone@xyz.com” where leftside may contain english alphabets only and rightside must end with a “.com” domain name" placeholder="Email">
+	 <h5>Enter your Mobile number</h5>
+	 <input type="text" pattern="[0-9]+" maxlength="10" placeholder="Mobile number" title="mobile number is a 10 digit numeric value">
+	 <h6>Enter your Account number</h6>
+	 <input type="text" pattern="[0-9]+" maxlength="5" placeholder="Account number" title="bank account is a five digit numerical value">
+	 <h6>Enter your password</h6>
+	 <input type="password" pattern="[a-z0-9]+" maxlength="20" placeholder="password" title="bank password can be 20 alpha numeric character">
+	<input type="Submit" value="Submit">
+	<a href="http://www.facebook.com">
+	 Admin login
+	 </a>
+</div>	
+	</form>
+</body>
+</html>	
