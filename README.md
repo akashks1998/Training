@@ -37,6 +37,7 @@ In this Assignment you need to create your homepage. You are allowed to use temp
 These are some simple and easy to use templates.
 * [CV template from W3schools](https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_cv&stacked=h)
 * [One more CV](https://blackrockdigital.github.io/startbootstrap-resume/) and can be downloaded [here](https://codeload.github.com/BlackrockDigital/startbootstrap-resume/zip/gh-pages)
+edited by dishant 
 ## Assignment 4
 ## Time to learn Git
 Deadline- 17th May<br>
